@@ -1,2 +1,2 @@
-webcamp = :プログラミング学習
-puts webcamp
+hoge = "123"
+puts hoge + "444"
